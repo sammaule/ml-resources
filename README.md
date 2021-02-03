@@ -11,7 +11,7 @@ A collation of resources that I have found useful.
 ](https://arxiv.org/abs/1402.1128)
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078): Paper that introduced Encoder-Decoder networks and GRU cells.
 - [LSTM: A Search Space Odyssey
-](https://arxiv.org/abs/1503.04069)
+](https://arxiv.org/abs/1503.04069): Comparison of different LSTM variants.
 
 ### Online courses 👩‍💻🧑‍💻
 
