@@ -8,7 +8,7 @@ A collation of resources and papers that I have found useful.
 
 ### Online courses 👩‍💻🧑‍💻
 
-- (Full stack deep learning)[https://fullstackdeeplearning.com/]
+- [Full stack deep learning](https://fullstackdeeplearning.com/)
 
 ### YouTube 📹
 
