@@ -13,9 +13,15 @@ A collation of resources that I have found useful.
 - [LSTM: A Search Space Odyssey
 ](https://arxiv.org/abs/1503.04069): Comparison of different LSTM variants.
 
+#### Computer vision
+
+- [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/pdf/1801.05746.pdf): Comparison of image segmentation performance for pretrained vs. untrained U-Net models.
+
 ### Online courses 👩‍💻🧑‍💻
 
 - [Full stack deep learning](https://fullstackdeeplearning.com/)
+
+
 
 ### Books 📚
 
