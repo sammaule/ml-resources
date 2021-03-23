@@ -29,3 +29,6 @@ A collation of resources that I have found useful.
 - [Effective Python](https://smile.amazon.co.uk/Effective-Python-Specific-Software-Development/dp/0134853989): Some great tips on writing production standard Python code.
 
 ### YouTube 📹
+
+### Hardware
+-[Tim Dettmers website](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
