@@ -17,6 +17,10 @@ A collation of resources that I have found useful.
 
 - [TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation](https://arxiv.org/pdf/1801.05746.pdf): Comparison of image segmentation performance for pretrained vs. untrained U-Net models.
 
+#### Recommender systems
+
+- [Wide and Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf): Introduction to wide and deep networks
+
 ### Online courses 👩‍💻🧑‍💻
 
 - [Full stack deep learning](https://fullstackdeeplearning.com/)
